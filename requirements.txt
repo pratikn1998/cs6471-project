@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+nltk
+sklearn
+transformers
+torch
+keras
+tqdm
+seaborn
+small-text
+snorkel 
+better-profanity 
+textblob 
+spacy
